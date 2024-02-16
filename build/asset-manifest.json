@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c77c73e.css",
+    "main.js": "/static/js/main.1f1a96f8.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/disneyplus.png": "/static/media/disneyplus.827578614ca7c8d78f75.png",
+    "static/media/qalamsoftware.png": "/static/media/qalamsoftware.6c96520c9386d5233de5.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.a5710d1644d2a78d3138.jpg",
+    "static/media/about.png": "/static/media/about.eedcc1222571cd850191.png",
+    "static/media/home-main.svg": "/static/media/home-main.35e86e7c72cbcd1c1485e572ab307941.svg",
+    "static/media/CV_2024-02-09_Bah_Ibrahima (1).pdf": "/static/media/CV_2024-02-09_Bah_Ibrahima (1).c4fabf6f30f8fd3b1c52.pdf",
+    "static/media/avatar.png": "/static/media/avatar.6a797c75b9875f90af63.png",
+    "static/media/perfobourse.png": "/static/media/perfobourse.77131e0f22ca5e8407dd.png",
+    "static/media/jo2024.png": "/static/media/jo2024.4c910900f406c22551c9.png",
+    "index.html": "/index.html",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "main.3c77c73e.css.map": "/static/css/main.3c77c73e.css.map",
+    "main.1f1a96f8.js.map": "/static/js/main.1f1a96f8.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c77c73e.css",
+    "static/js/main.1f1a96f8.js"
+  ]
+}
