@@ -3,7 +3,7 @@
   <a href="#" target="_blank">Bah Ibrahima</a>
 </h2>
 <div align="center">
-  <img alt="Démo" src="./Images/readme-img1.png" />
+  <img alt="Démo" src="https://github.com/bahEzope224/portfolio/blob/main/build/static/media/page%20d'accueil.png" />
 </div>
 
 <br/>
