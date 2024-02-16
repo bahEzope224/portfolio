@@ -1,6 +1,6 @@
 <h2 align="center">
   Site Web Portfolio - v2.0<br/>
-  <a href="#" target="_blank">Bah Ibrahima</a>
+  <a href="https://ibrahima-bah.netlify.app/" target="_blank">Bah Ibrahima</a>
 </h2>
 <div align="center">
   <img alt="Démo" src="https://github.com/bahEzope224/portfolio/blob/main/build/static/media/page%20d'accueil.png" />
