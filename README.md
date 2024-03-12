@@ -43,13 +43,16 @@ Ce projet a été réalisé avec ces technologies.
 
 ## Pour Commencer
 
-Clonez ce dépôt. Vous aurez besoin de `node.js` et `git` installés globalement sur votre machine.
+Clonez ce dépôt avec la commande :
+`git clone https://github.com/bahEzope224/portfolio/ `
+
+Vous aurez besoin de `node.js` et `git` installés globalement sur votre machine.
 
 ## 🛠 Installation et Instructions de Configuration
 
 1. Installation: `npm install`
 
-2. Dans le répertoire du projet, vous pouvez exécuter: `npm start`
+2. Dans le répertoire du projet, vous pouvez exécuter: `npm run start`
 
 Exécute l'application en mode développement.\
 Ouvrez [http://localhost:3000](http://localhost:3000) pour le voir dans le navigateur.
