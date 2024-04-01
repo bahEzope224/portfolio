@@ -3,7 +3,7 @@
   <a href="#" target="_blank">Bah Ibrahima</a>
 </h2>
 <div align="center">
-  <img alt="Démo" src="./Images/readme-img1.png" />
+  <img alt="Démo" src="img-font-readme.png" />
 </div>
 <br/>
 
