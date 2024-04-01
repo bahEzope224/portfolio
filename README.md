@@ -16,9 +16,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/bahEzope224/portfolio/issues">Signaler un bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/bahEzope224/portfolio/issues/new">Signaler un bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/bahEzope224/portfolio/issues">Demander une fonctionnalité</a>
+    <a href="https://github.com/bahEzope224/portfolio/issues/new">Demander une fonctionnalité</a>
 </h3>
 
 ## Construit Avec
