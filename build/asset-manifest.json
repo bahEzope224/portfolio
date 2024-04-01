@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2fb7f3e7.css",
+    "main.js": "/static/js/main.6523b703.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/disneyplus.png": "/static/media/disneyplus.827578614ca7c8d78f75.png",
+    "static/media/qalamsoftware.png": "/static/media/qalamsoftware.6c96520c9386d5233de5.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.a5710d1644d2a78d3138.jpg",
+    "static/media/about.png": "/static/media/about.eedcc1222571cd850191.png",
+    "static/media/projet-note-cadrage.png": "/static/media/projet-note-cadrage.736129e2c1ae3f4267fa.png",
+    "static/media/BTS_SIO-_Tableau_de_synthese_-_Epreuve_E4_1 - Tableau de synthèse Épreuve E4.pdf": "/static/media/BTS_SIO-_Tableau_de_synthese_-_Epreuve_E4_1 - Tableau de synthèse Épreuve E4.7b03f76b2103c70f2b87.pdf",
+    "static/media/CV_2024-03-27_Ibrahima_Bah.pdf": "/static/media/CV_2024-03-27_Ibrahima_Bah.26d30161f1f1e5850ceb.pdf",
+    "static/media/avatar.png": "/static/media/avatar.6a797c75b9875f90af63.png",
+    "static/media/home-main.svg": "/static/media/home-main.5132f1e5f47d3c9c8a6974d89f9413bd.svg",
+    "static/media/perfobourse.png": "/static/media/perfobourse.77131e0f22ca5e8407dd.png",
+    "static/media/jo2024.png": "/static/media/jo2024.4c910900f406c22551c9.png",
+    "static/media/projet-tesla.png": "/static/media/projet-tesla.33842bd395730b3cd6b7.png",
+    "static/media/veille-technologique.png": "/static/media/veille-technologique.a9f59aae0a1c01edbcd0.png",
+    "static/media/projet-biblo.png": "/static/media/projet-biblo.943d96dcee92cf2d70e3.png",
+    "index.html": "/index.html",
+    "static/media/pre.svg": "/static/media/pre.ebf85b6a61832e517e4b.svg",
+    "main.2fb7f3e7.css.map": "/static/css/main.2fb7f3e7.css.map",
+    "main.6523b703.js.map": "/static/js/main.6523b703.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fb7f3e7.css",
+    "static/js/main.6523b703.js"
+  ]
+}
