@@ -1,11 +1,10 @@
 <h2 align="center">
   Site Web Portfolio - v2.0<br/>
-  <a href="https://ibrahima-bah.netlify.app/" target="_blank">Bah Ibrahima</a>
+  <a href="#" target="_blank">Bah Ibrahima</a>
 </h2>
 <div align="center">
-  <img alt="Démo" src="https://github.com/bahEzope224/portfolio/blob/main/build/static/media/page%20d'accueil.png" />
+  <img alt="Démo" src="./Images/readme-img1.png" />
 </div>
-
 <br/>
 
 <center align="center">
@@ -24,13 +23,12 @@
 
 ## Construit Avec
 
-Mon portfolio personnel <a href="#" target="_blank">Ibrahima</a> qui présente certains de mes projets GitHub ainsi que mon CV et mes compétences techniques.<br/>
+Mon portfolio personnel <a href="https://ibrahima-bah.netlify.app/" target="_blank">Ibrahima Bah</a> qui présente certains de mes projets ainsi que mon CV et mes compétences techniques.<br/>
 
 Ce projet a été réalisé avec ces technologies.
 
 - React.js
 - Node.js
-- Express.js
 - CSS3
 - VsCode
 - netlify
